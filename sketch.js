@@ -22,7 +22,7 @@ function draw(){
 
   textSize(30);
   fill(0);
-  text("Write your account password",20,80);
+  text("Write your Name:",20,80);
  
 }
   
